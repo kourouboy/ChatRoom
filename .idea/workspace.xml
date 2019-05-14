@@ -1,20 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebf76440-93ce-40ea-b56c-e137b124378a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_client/src/com/kourou/chatroom/client/multi/MultiClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_client/src/com/kourou/chatroom/client/multi/ReadDataFromServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_client/src/com/kourou/chatroom/client/multi/WriteDataToServerThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_server/src/com/kourou/chatroom/server/multi/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_server/src/com/kourou/chatroom/server/multi/MultiThreadServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chat_room_server/src/com/kourou/chatroom/server/single/SingleServe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_room_client/src/com/kourou/chatroom/client/single/SingleClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/chat_room_client/src/com/kourou/chatroom/client/single/SingleClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat_room_server/src/com/kourou/chatroom/server/single/SingleSever.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chat_room_client/com/kourou/chatroom/client/single/SingleClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/chat_room_client/com/kourou/chatroom/client/single/SingleClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/chat_room_server/com/kourou/chatroom/server/single/SingleSever.class" beforeDir="false" />
-    </list>
+    <list default="true" id="ebf76440-93ce-40ea-b56c-e137b124378a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -214,7 +201,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../multithreading" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -357,16 +344,15 @@
       <updated>1557241388988</updated>
       <workItem from="1557241393345" duration="4124000" />
       <workItem from="1557484633866" duration="2410000" />
-      <workItem from="1557639472336" duration="16409000" />
+      <workItem from="1557639472336" duration="16540000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22943000" />
+    <option name="totallyTimeSpent" value="23074000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4973357" weight="0.15683104" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
